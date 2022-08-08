@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/machines/grpc-client/options/index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,QAAQ,CAAC;AACxC,OAAO,EAAE,QAAQ,EAAE,cAAc,EAAE,MAAM,UAAU,CAAC;AAQpD,QAAA,MAAM,OAAO,EAAE,cAAc,CAAC,QAAQ,EAAE,cAAc,CAMrD,CAAC;AAEF,eAAe,OAAO,CAAC"}

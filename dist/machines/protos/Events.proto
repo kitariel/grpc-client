@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+service Events {
+  rpc startConnection ( stream EventMessage ) returns ( stream EventMessage ) {};
+  rpc sendMessage ( EventMessage ) returns (EventMessage ){}
+};
+
+message EventMessage {
+  required string type = 1;
+  required string client_id = 2;
+  required string payload = 3;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GRPC-Client Development",
+  "script": "ts-node",
+  "args": "src/dummy.ts",
+  "watch": ["src"],
+  "max_memory_restart": "200M",
+  "ignore_watch": ["node_modules", "data/*.json", "dist", ".git"]
+}
